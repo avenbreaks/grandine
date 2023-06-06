@@ -5,4 +5,5 @@
 - [Checkpoint Sync](./checkpoint_sync.md)
 - [Slashing Protection](./slashing_protection.md)
 - [Storage](./storage.md)
+- [Validator Client](./validator_client.md)
 - [Web3Signer](./web3signer.md)
