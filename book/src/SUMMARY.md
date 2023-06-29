@@ -8,3 +8,4 @@
 - [Storage](./storage.md)
 - [Validator Client](./validator_client.md)
 - [Web3Signer](./web3signer.md)
+- [Support](./support.md)
